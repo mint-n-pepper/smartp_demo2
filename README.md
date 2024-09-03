@@ -1,7 +1,7 @@
 
 > Diese Seite bei [https://mint-n-pepper.github.io/smartp_demo2/](https://mint-n-pepper.github.io/smartp_demo2/) öffnen
 
-## Als Erweiterung verwenden
+## Demo code für Workshop smart parkieren
 
 Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
 
